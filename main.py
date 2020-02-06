@@ -7,7 +7,7 @@ def LevelOne():
   LevelOneB = 'No way dude, my level one is way better. Don\'t you dare remove this either'
 
 def LevelTwo():
-  pass
+  LevelTwo = 'Yo im pretty sure we kinda really need this code'
 
 StartScherm()
 LevelOne()
